@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.10
 
 ENV WORKERS "10"
 ENV PORT "1080"
