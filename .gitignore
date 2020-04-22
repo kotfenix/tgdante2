@@ -11,4 +11,4 @@ etc/passwd
 etc/shadow-
 etc/shadow
 etc/login.defs
-
+.DS_Store
